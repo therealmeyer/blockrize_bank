@@ -1,7 +1,7 @@
 # README
 
 ### Setup
-* To run on localhost
+To run on localhost
 * bundle install
 * rails db:setup
 * rails server
